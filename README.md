@@ -38,5 +38,9 @@ This repository contains a Python-based calculator for determining the Gibbs fre
 | ------- | ------------------------ | ---------------------------- | --------- |
 | Aluminium |	933.47 |	932.12 |	0.15 |
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
+
 ## History
 This project was initially developed for Aluminium and has since been generalized to accommodate other elements. The original Aluminium-specific code is available here.
